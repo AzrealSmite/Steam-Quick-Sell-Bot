@@ -24,7 +24,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -37,7 +37,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -50,7 +50,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -63,7 +63,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -76,7 +76,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -89,7 +89,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -102,7 +102,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -115,7 +115,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -128,7 +128,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -141,7 +141,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -154,7 +154,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -167,7 +167,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -180,7 +180,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -193,7 +193,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -206,7 +206,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -219,7 +219,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -232,7 +232,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -245,7 +245,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -258,7 +258,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -271,7 +271,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -284,7 +284,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -297,7 +297,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -310,7 +310,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -323,7 +323,7 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
@@ -336,9 +336,9 @@ while keyboard.is_pressed('c') == False:
             pyautogui.moveTo(start)
             click()
     else:
-        print("Can't sale!")
+        print("Can't sell!")
         time.sleep(0.5)
         num_clicks = 1
     for i in range(num_clicks):
         pyautogui.click(970, 805)
-        time.sleep(0.7)
+        time.sleep(0.3)
