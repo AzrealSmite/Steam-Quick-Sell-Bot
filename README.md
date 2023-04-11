@@ -1,10 +1,10 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                      **---------------------------**
-                                                     ***-WORKS ONLY ON WEB BROWSER-***
-                                                    ****WORKS AS AN AUTOCLICKER BOT****
-                                                     ***-------MADE IN PYTHON------***
-                                                      **---------------------------**
+                                          **---------------------------**
+                                         ***-WORKS ONLY ON WEB BROWSER-***
+                                        ****WORKS AS AN AUTOCLICKER BOT****
+                                         ***-------MADE IN PYTHON------***
+                                          **---------------------------**
 
 
 *You would need Steam Inventory Helper for [Quick Sell] Option: https://steaminventoryhelper.com/
