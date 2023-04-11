@@ -6,6 +6,7 @@
                                          ***-------MADE IN PYTHON------***
                                           **---------------------------**
 
+*NOTE: THIS IS MY FIRST PYTHON PROJECT
 
 *You would need Steam Inventory Helper for [Quick Sell] Option: https://steaminventoryhelper.com/
 
